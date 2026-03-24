@@ -1,10 +1,10 @@
 # HubUI Brain
 
-Python SDK for building the reasoning backend of a [HubUI](https://hubui.ai) voice AI — the **Brain**.
+Python SDK for building the reasoning backend of a [HubUI](https://hubui.ai/?utm_source=github&utm_medium=readme&utm_campaign=hubui-brain) voice AI — the **Brain**.
 
 **SDK Version: 0.1.0.post1**
 
-[Get Started Free](https://app.hubui.ai) · [Documentation](https://app.hubui.ai/documentation) · [Discord](https://discord.gg/9HZBN6ZeU6)
+[Get Started Free](https://app.hubui.ai/?utm_source=github&utm_medium=readme&utm_campaign=hubui-brain) · [Documentation](https://app.hubui.ai/documentation?utm_source=github&utm_medium=readme&utm_campaign=hubui-brain) · [Discord](https://discord.gg/9HZBN6ZeU6)
 
 ---
 
